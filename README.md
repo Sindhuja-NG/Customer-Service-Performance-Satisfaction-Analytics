@@ -82,7 +82,9 @@ The main objectives of this project are:
 
 ##  Project Author
 Sindhuja N G
+
 Data Analytics Project
+
 Tools: Python | Power BI
 
 
